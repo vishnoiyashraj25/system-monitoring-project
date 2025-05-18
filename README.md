@@ -22,7 +22,7 @@ This project consists of:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/system-monitoring-project.git
+git clone https://github.com/vishnoiyashraj25/system-monitoring-project.git
 cd system-monitoring-project
 
 # Start Backend
