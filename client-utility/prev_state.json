@@ -1,0 +1,19 @@
+{
+    "cpu_percent": 37.8,
+    "memory": {
+        "total": 8345964544,
+        "available": 1172025344,
+        "percent": 86.0,
+        "used": 7173939200,
+        "free": 1172025344
+    },
+    "disk": {
+        "total": 238495461376,
+        "used": 233982468096,
+        "free": 4512993280,
+        "percent": 98.1
+    },
+    "platform": "Windows",
+    "platform_version": "10.0.19041",
+    "timestamp": "2025-05-18T19:38:10.046677"
+}
